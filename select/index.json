@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Here Without You",
+  "base_artist": "3 Doors Down",
+  "createdAt": "2026-02-28T07:25:07.147148Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Don't Wanna Be Here Without You",
+      "artist": "Drugstore",
+      "has_synced": false,
+      "path": "select/01_I_Don't_Wanna_Be_Here_Without_You_Drugstore.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Here Without You (Rarities Edition: Live At Cynthia Woods Mitchell Pavilion, Houston, TX, 2003)",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/02_Here_Without_You_(Rarities_Edition__Live_At_Cynthia_Woods_Mitchell_Pavilion,_Hou_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Here Without You",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/03_Here_Without_You_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Here Without You",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/04_Here_Without_You_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Here Without You (Explicit)",
+      "artist": "3 Doors down",
+      "has_synced": true,
+      "path": "select/05_Here_Without_You_(Explicit)_3_Doors_down.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Here Without You",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/06_Here_Without_You_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Here Without You",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/07_Here_Without_You_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Here Without You",
+      "artist": "The Byrds",
+      "has_synced": false,
+      "path": "select/08_Here_Without_You_The_Byrds.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Here Without You",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/09_Here_Without_You_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Here Without You (Single Version)",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/10_Here_Without_You_(Single_Version)_3_Doors_Down.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Here Without You",
+      "artist": "3 Doors Down",
+      "has_synced": false,
+      "path": "select/pl_01_Here_Without_You_3_Doors_Down.txt"
+    }
+  ]
+}
